@@ -5,9 +5,11 @@
 
 ---
 ##Language
+
 This is the Chinese version! I didn't have enough time, so I added the Chinese version.
 
 ##Note
+
 Do not run it! It has a major issue, such as placing all your programs in your Start Menu, even those you haven't selected.
 
 ## Features
