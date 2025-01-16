@@ -4,8 +4,11 @@
 **DualSystemAppSync** is a Python-based GUI tool designed to create symbolic links and copy program folders. It enables users in a dual-operating-system (Windows + Windows) environment to make installed programs appear in the Start Menu of both systems, simplifying program access and management.
 
 ---
-##Language##
-This is a chinese version !!! I don't have time so i put chinese version on it.
+##Language
+This is the Chinese version! I didn't have enough time, so I added the Chinese version.
+
+##Note
+Do not run it! It has a major issue, such as placing all your programs in your Start Menu, even those you haven't selected.
 
 ## Features
 
